@@ -1,0 +1,27 @@
+{
+  "[markdown]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[lua]": {
+    "editor.defaultFormatter": "PollywogGames.pico8-ls"
+  },
+  "[pico-8]": {
+    "editor.defaultFormatter": "PollywogGames.pico8-ls"
+  },
+  "[pico-8-lua]": {
+    "editor.defaultFormatter": "PollywogGames.pico8-ls"
+  },
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true
+}
